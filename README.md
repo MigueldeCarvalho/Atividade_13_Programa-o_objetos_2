@@ -1,2 +1,2 @@
-# Atividade_13_Programa-o_objetos_2
+# Atividade_13_Programação_orientada_objetos_2
 Marisangela
